@@ -38,5 +38,6 @@ One of the best ways to set yourself apart as a new developer is to contribute t
 Here are things I haven't worked into another category yet.
 
 - [Teach100 - Top education blogs](https://teach.com/what/teachers-know/teach100/) - This is a huge list of education and edtech blogs. Follow some of the top ones to keep up with trends and new innovation in the industry.
+- [My list of 1000 education blogs](https://airtable.com/shrJSchmy4BHHadEA) - I curated this list with the intent of building a huge education news aggregator...which I haven't gotten around to yet.
 
 Feel free to suggest your own resources, blog posts, meetups, open source projects, or whatever!
