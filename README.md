@@ -34,10 +34,11 @@ One of the best ways to set yourself apart as a new developer is to contribute t
 - [Rubric Creator](https://github.com/thegraidenetwork/rubric-creator) - A rubric creation tool for building and sharing scoring rubrics written in Angular and Typescript.
 - [Student Insights](https://github.com/studentinsights/studentinsights) - A student grade data platform for teachers and administrators written in Ruby on Rails.
 
-## Other
-Here are things I haven't worked into another category yet.
+## News
+If you want to track education news, blogs, etc. Check out the following:
 
+- [ForEdus Education Blog Aggregator](https://www.foredus.com/) - Grabs articles from over 1000 education news sources and tracks their popularity and topics.
+- [My list of 1000 education blogs](https://airtable.com/shrJSchmy4BHHadEA) - This is a massive list of education blogs I curated.
 - [Teach100 - Top education blogs](https://teach.com/what/teachers-know/teach100/) - This is a huge list of education and edtech blogs. Follow some of the top ones to keep up with trends and new innovation in the industry.
-- [My list of 1000 education blogs](https://airtable.com/shrJSchmy4BHHadEA) - I curated this list with the intent of building a huge education news aggregator...which I haven't gotten around to yet.
 
 Feel free to suggest your own resources, blog posts, meetups, open source projects, or whatever!
