@@ -37,7 +37,6 @@ One of the best ways to set yourself apart as a new developer is to contribute t
 ## News
 If you want to track education news, blogs, etc. Check out the following:
 
-- [ForEdus Education Blog Aggregator](https://www.foredus.com/) - Grabs articles from over 1000 education news sources and tracks their popularity and topics.
 - [My list of 1000 education blogs](https://airtable.com/shrJSchmy4BHHadEA) - This is a massive list of education blogs I curated.
 - [Teach100 - Top education blogs](https://teach.com/what/teachers-know/teach100/) - This is a huge list of education and edtech blogs. Follow some of the top ones to keep up with trends and new innovation in the industry.
 
